@@ -1,0 +1,57 @@
+{
+    "status": "OK",
+    "code": "SUCCESS",
+    "message": "success",
+    "data": [
+        {
+            "model": null,
+            "mfrname": null,
+            "mfrcode": null,
+            "numberRecord": 118,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": null,
+            "mfrcode": null,
+            "numberRecord": 61,
+            "materialType": "Passive"
+        },
+        {
+            "model": null,
+            "mfrname": null,
+            "mfrcode": null,
+            "numberRecord": 26,
+            "materialType": "Packing"
+        },
+        {
+            "model": null,
+            "mfrname": null,
+            "mfrcode": null,
+            "numberRecord": 25,
+            "materialType": "Active"
+        },
+        {
+            "model": null,
+            "mfrname": null,
+            "mfrcode": null,
+            "numberRecord": 10,
+            "materialType": "E-Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": null,
+            "mfrcode": null,
+            "numberRecord": 7,
+            "materialType": "Connector"
+        },
+        {
+            "model": null,
+            "mfrname": null,
+            "mfrcode": null,
+            "numberRecord": 4,
+            "materialType": "Adapter"
+        }
+    ],
+    "size": 7
+}
