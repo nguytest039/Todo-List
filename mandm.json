@@ -1,0 +1,708 @@
+{
+    "status": "OK",
+    "code": "SUCCESS",
+    "message": "success",
+    "data": [
+        {
+            "model": "20-103088",
+            "mfrname": "C-MFR - HUIZHOU SENCHENGDA TECHNOLOGY CO., LTD.",
+            "mfrcode": "YE00040522",
+            "numberRecord": 6,
+            "materialType": null
+        },
+        {
+            "model": "20-043810",
+            "mfrname": "CLOUD NETWORK TECHNOLOGY SINGAPOREPTE. LTD.",
+            "mfrcode": "YE00030061",
+            "numberRecord": 4,
+            "materialType": null
+        },
+        {
+            "model": "20-043871",
+            "mfrname": "CLOUD NETWORK TECHNOLOGY SINGAPOREPTE. LTD.",
+            "mfrcode": "YE00030061",
+            "numberRecord": 3,
+            "materialType": null
+        },
+        {
+            "model": "20-103134",
+            "mfrname": "C-MFR - WARTON PRINTING AND PACKAGING TECHNOLOGY (VIET NAM) CO., LTD",
+            "mfrcode": "YE00038390",
+            "numberRecord": 3,
+            "materialType": null
+        },
+        {
+            "model": "20-048045",
+            "mfrname": "C-MFR - TACU TECHNOLOGY (VIETNAM) CO.,LTD",
+            "mfrcode": "YE00034940",
+            "numberRecord": 3,
+            "materialType": null
+        },
+        {
+            "model": "55-003944",
+            "mfrname": "BESTEK TECHNOLOGY (SHENZHEN)",
+            "mfrcode": "YE00035983",
+            "numberRecord": 3,
+            "materialType": null
+        },
+        {
+            "model": "20-104610",
+            "mfrname": "EVERWIN",
+            "mfrcode": "YE00012338",
+            "numberRecord": 3,
+            "materialType": null
+        },
+        {
+            "model": "50-101297",
+            "mfrname": "GREEN PRECISION COMPONENTS (HUIZHOU) CO., LTD",
+            "mfrcode": "YE00027420",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "15-100322",
+            "mfrname": "NEXPERIA USA, INC.",
+            "mfrcode": "YE00029624",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "14-100638",
+            "mfrname": "INVENSENSE, INC",
+            "mfrcode": "YE00029777",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "10-007758",
+            "mfrname": "TDK CORPORATION OF AMERICA",
+            "mfrcode": "YE00005286",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "20-103139",
+            "mfrname": "C-MFR - DINH THINH COMPANY LIMITED",
+            "mfrcode": "YE00039959",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "20-103669",
+            "mfrname": "C-MFR - HUIZHOU SENCHENGDA TECHNOLOGY CO., LTD.",
+            "mfrcode": "YE00040522",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "20-043872",
+            "mfrname": "CLOUD NETWORK TECHNOLOGY SINGAPOREPTE. LTD.",
+            "mfrcode": "YE00030061",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "20-043872",
+            "mfrname": "C-MFR - SHENZHEN CHANGXIANG TECHNOLOGY CO.,LTD",
+            "mfrcode": "YE00037148",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "20-047925-GCPC",
+            "mfrname": "GREEN PRECISION COMPONETS VIETNAM CO.,LTD",
+            "mfrcode": "YE00038444",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "20-102246-H",
+            "mfrname": "UNISTEEL TECHNOLOGY LIMITED",
+            "mfrcode": "YE00031199",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "20-102247-H",
+            "mfrname": "UNISTEEL TECHNOLOGY LIMITED",
+            "mfrcode": "YE00031199",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "20-102248-H",
+            "mfrname": "UNISTEEL TECHNOLOGY LIMITED",
+            "mfrcode": "YE00031199",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "20-102249-H",
+            "mfrname": "UNISTEEL TECHNOLOGY LIMITED",
+            "mfrcode": "YE00031199",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "20-102250-H",
+            "mfrname": "UNISTEEL TECHNOLOGY LIMITED",
+            "mfrcode": "YE00031199",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "20-103101",
+            "mfrname": "C-MFR - TACU TECHNOLOGY (VIETNAM) COMPANY LIMITED",
+            "mfrcode": "YE00040131",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "20-103117",
+            "mfrname": "C-MFR - SHIU LI TECHNOLOGY CO., LTD",
+            "mfrcode": "YE00040133",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "20-103124",
+            "mfrname": "C-MFR - SHIU LI TECHNOLOGY CO., LTD",
+            "mfrcode": "YE00040133",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "20-103084",
+            "mfrname": "C-MFR - TACU TECHNOLOGY (VIETNAM) COMPANY LIMITED",
+            "mfrcode": "YE00040131",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "20-105389",
+            "mfrname": "C-MFR - DINH THINH COMPANY LIMITED",
+            "mfrcode": "YE00039959",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "20-106050",
+            "mfrname": "C-MFR - LONNI TECHNOLOGY COMPANY LIMITED",
+            "mfrcode": "YE00039451",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "22-005567",
+            "mfrname": "RR DONNELLEY",
+            "mfrcode": "YE00005351",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "22-005568",
+            "mfrname": "RR DONNELLEY",
+            "mfrcode": "YE00005351",
+            "numberRecord": 2,
+            "materialType": null
+        },
+        {
+            "model": "22-005570",
+            "mfrname": "RR DONNELLEY",
+            "mfrcode": "YE00005351",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "22-005574",
+            "mfrname": "RR DONNELLEY",
+            "mfrcode": "YE00005351",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "22-100169",
+            "mfrname": "SHENZHEN YUTO PACKAGING TECHNOLOGY CO., LTD",
+            "mfrcode": "YE00030353",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "22-100338",
+            "mfrname": "SHENZHEN YUTO PACKAGING TECHNOLOGY CO., LTD",
+            "mfrcode": "YE00030353",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "22-100417",
+            "mfrname": "RR DONNELLEY",
+            "mfrcode": "YE00005351",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "22-100466",
+            "mfrname": "RR DONNELLEY",
+            "mfrcode": "YE00005351",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "23-002810",
+            "mfrname": "RR DONNELLEY",
+            "mfrcode": "YE00005351",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "23-002810-R",
+            "mfrname": "YUTO VN",
+            "mfrcode": "YE00034756",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "23-014387",
+            "mfrname": "RR DONNELLEY",
+            "mfrcode": "YE00005351",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "23-014388",
+            "mfrname": "RR DONNELLEY",
+            "mfrcode": "YE00005351",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "23-014401",
+            "mfrname": "RR DONNELLEY",
+            "mfrcode": "YE00005351",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "23-100879",
+            "mfrname": "RR DONNELLEY",
+            "mfrcode": "YE00005351",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "23-100884",
+            "mfrname": "RR DONNELLEY",
+            "mfrcode": "YE00005351",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "23-101435",
+            "mfrname": "RR DONNELLEY",
+            "mfrcode": "YE00005351",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "50-009145-H",
+            "mfrname": "GREEN PRECISION COMPONENTS (HUIZHOU) CO., LTD",
+            "mfrcode": "YE00027420",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "50-100885",
+            "mfrname": "RRD",
+            "mfrcode": "YE00015846",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "50-100886",
+            "mfrname": "RRD",
+            "mfrcode": "YE00015846",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "50-101294",
+            "mfrname": "SHENZHEN EVERWIN PRECISION TECHNOLOGY CO.,LTD",
+            "mfrcode": "YE00027741",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-106054",
+            "mfrname": "C-MFR - DINH THINH COMPANY LIMITED",
+            "mfrcode": "YE00039959",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "21-004613-M2",
+            "mfrname": "SHENZHEN YUTO PACKAGING TECHNOLOGY CO., LTD",
+            "mfrcode": "YE00030353",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "22-002711",
+            "mfrname": "SHENZHEN YUTO PACKAGING TECHNOLOGY CO., LTD",
+            "mfrcode": "YE00030353",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "22-002712",
+            "mfrname": "SHENZHEN YUTO PACKAGING TECHNOLOGY CO., LTD",
+            "mfrcode": "YE00030353",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "22-004604",
+            "mfrname": "SHENZHEN YUTO PACKAGING TECHNOLOGY CO., LTD",
+            "mfrcode": "YE00030353",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "22-004605",
+            "mfrname": "SHENZHEN YUTO PACKAGING TECHNOLOGY CO., LTD",
+            "mfrcode": "YE00030353",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "22-005154",
+            "mfrname": "SHENZHEN YUTO PACKAGING TECHNOLOGY CO., LTD",
+            "mfrcode": "YE00030353",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-105427-P",
+            "mfrname": "HENGLI PRECISION INDUSTRY (GUANGDONG) CO.,LTD.",
+            "mfrcode": "YE00031837",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-105429-P",
+            "mfrname": "HENGLI PRECISION INDUSTRY (GUANGDONG) CO.,LTD.",
+            "mfrcode": "YE00031837",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-105434-P",
+            "mfrname": "HENGLI PRECISION INDUSTRY (GUANGDONG) CO.,LTD.",
+            "mfrcode": "YE00031837",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-105435-P",
+            "mfrname": "HENGLI PRECISION INDUSTRY (GUANGDONG) CO.,LTD.",
+            "mfrcode": "YE00031837",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-105436",
+            "mfrname": "SHENZHEN EVERWIN PRECISION TECHNOLOGY CO.,LTD",
+            "mfrcode": "YE00027741",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-105485-P",
+            "mfrname": "HENGLI PRECISION INDUSTRY (GUANGDONG) CO.,LTD.",
+            "mfrcode": "YE00031837",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-105486-P",
+            "mfrname": "HENGLI PRECISION INDUSTRY (GUANGDONG) CO.,LTD.",
+            "mfrcode": "YE00031837",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-106048",
+            "mfrname": "C-MFR - LONNI TECHNOLOGY COMPANY LIMITED",
+            "mfrcode": "YE00039451",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-106049",
+            "mfrname": "C-MFR - LONNI TECHNOLOGY COMPANY LIMITED",
+            "mfrcode": "YE00039451",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-103084",
+            "mfrname": "ASINK GREEN MATERIAL CORPORATION",
+            "mfrcode": "YE00040409",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-103085",
+            "mfrname": "ASINK GREEN MATERIAL CORPORATION",
+            "mfrcode": "YE00040409",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-103086",
+            "mfrname": "ASINK GREEN MATERIAL CORPORATION",
+            "mfrcode": "YE00040409",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-103108",
+            "mfrname": "C-MFR - LIANYING SCREWS CO.,LTD",
+            "mfrcode": "YE00040132",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-102816",
+            "mfrname": "DONGGUAN MAXRON INTERNET OF THINGS TECHNOLOGY CO., LTD",
+            "mfrcode": "YE00029598",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-102862",
+            "mfrname": "GREEN PRECISION COMPONETS VIETNAM CO.,LTD",
+            "mfrcode": "YE00038444",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-047926-NSK",
+            "mfrname": "NISHOKU TECHNOLOGY INC.",
+            "mfrcode": "YE00038693",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-048042",
+            "mfrname": "SICHEN RUBBER & PLASTIC HARDWARE (DONGGUAN) CO., LTD.",
+            "mfrcode": "YE00038692",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-103760",
+            "mfrname": "PULLY ELECTRONICS TECHNOLOGY VIETNAM",
+            "mfrcode": "YE00040244",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-104554-H",
+            "mfrname": "SHENZHEN EVERWIN PRECISION TECHNOLOGY CO.,LTD",
+            "mfrcode": "YE00027741",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-104559-H",
+            "mfrname": "SHENZHEN EVERWIN PRECISION TECHNOLOGY CO.,LTD",
+            "mfrcode": "YE00027741",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-104567-H",
+            "mfrname": "SHENZHEN EVERWIN PRECISION TECHNOLOGY CO.,LTD",
+            "mfrcode": "YE00027741",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-104573-H",
+            "mfrname": "SHENZHEN EVERWIN PRECISION TECHNOLOGY CO.,LTD",
+            "mfrcode": "YE00027741",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-104579-H",
+            "mfrname": "SHENZHEN EVERWIN PRECISION TECHNOLOGY CO.,LTD",
+            "mfrcode": "YE00027741",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-104580-H",
+            "mfrname": "SHENZHEN EVERWIN PRECISION TECHNOLOGY CO.,LTD",
+            "mfrcode": "YE00027741",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-104581-H",
+            "mfrname": "SHENZHEN EVERWIN PRECISION TECHNOLOGY CO.,LTD",
+            "mfrcode": "YE00027741",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-104582-H",
+            "mfrname": "SHENZHEN EVERWIN PRECISION TECHNOLOGY CO.,LTD",
+            "mfrcode": "YE00027741",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-104583-H",
+            "mfrname": "SHENZHEN EVERWIN PRECISION TECHNOLOGY CO.,LTD",
+            "mfrcode": "YE00027741",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-104584-H",
+            "mfrname": "SHENZHEN EVERWIN PRECISION TECHNOLOGY CO.,LTD",
+            "mfrcode": "YE00027741",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-104606-H",
+            "mfrname": "SHANGHAI AMPHENOL AIRWAVE COMMUNICATION ELECTRONICS CO., LTD.",
+            "mfrcode": "YE00027927",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-103141",
+            "mfrname": "C-MFR - DINH THINH COMPANY LIMITED",
+            "mfrcode": "YE00039959",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-103225",
+            "mfrname": "SHENZHEN EVERWIN PRECISION TECHNOLOGY CO., LTD.",
+            "mfrcode": "YE00039948",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-103238",
+            "mfrname": "N.W.E",
+            "mfrcode": "YE00008640",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-103249",
+            "mfrname": "SICHEN",
+            "mfrcode": "YE00039708",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-103258",
+            "mfrname": "DINH THINH COMPANY LIMITED",
+            "mfrcode": "YE00037384",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "20-103586",
+            "mfrname": "C-MFR - DINH THINH COMPANY LIMITED",
+            "mfrcode": "YE00039959",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "10-007760",
+            "mfrname": "TDK CORPORATION OF AMERICA",
+            "mfrcode": "YE00005286",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "10-007778",
+            "mfrname": "MURATA ELECTRONICS NORTH AMERICA, INC.",
+            "mfrcode": "YE00004531",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "10-007781",
+            "mfrname": "MURATA ELECTRONICS NORTH AMERICA, INC.",
+            "mfrcode": "YE00004531",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "10-007783",
+            "mfrname": "MURATA ELECTRONICS NORTH AMERICA, INC.",
+            "mfrcode": "YE00004531",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "10-008003",
+            "mfrname": "C-MFR - YAGEO USA (HK) CO, LTD",
+            "mfrcode": "YE00034810",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "10-008021-H",
+            "mfrname": "KEMET",
+            "mfrcode": "YE00000647",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "10-008094",
+            "mfrname": "C-MFR - YAGEO USA (HK) CO, LTD",
+            "mfrcode": "YE00034810",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "10-008234-H",
+            "mfrname": "C-MFR - YAGEO USA (HK) CO, LTD",
+            "mfrcode": "YE00034810",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "10-008508",
+            "mfrname": "KYOCERA ELECTRONICS",
+            "mfrcode": "YE00022013",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "10-008795",
+            "mfrname": "MURATA ELECTRONICS NORTH AMERICA, INC.",
+            "mfrcode": "YE00004531",
+            "numberRecord": 1,
+            "materialType": null
+        },
+        {
+            "model": "10-100846-H",
+            "mfrname": "TDK CORPORATION OF AMERICA",
+            "mfrcode": "YE00005286",
+            "numberRecord": 1,
+            "materialType": null
+        }
+    ],
+    "size": 100
+}
