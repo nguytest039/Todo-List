@@ -1,0 +1,652 @@
+{
+    "status": "OK",
+    "code": "SUCCESS",
+    "message": "success",
+    "data": [
+        {
+            "model": null,
+            "mfrname": "C-MFR - YAGEO USA (HK) CO, LTD",
+            "mfrcode": "YE00034810",
+            "numberRecord": 24,
+            "materialType": "Passive"
+        },
+        {
+            "model": null,
+            "mfrname": "SHENZHEN EVERWIN PRECISION TECHNOLOGY CO.,LTD",
+            "mfrcode": "YE00027741",
+            "numberRecord": 15,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "RR DONNELLEY",
+            "mfrcode": "YE00005351",
+            "numberRecord": 15,
+            "materialType": "Packing"
+        },
+        {
+            "model": null,
+            "mfrname": "MURATA ELECTRONICS NORTH AMERICA, INC.",
+            "mfrcode": "YE00004531",
+            "numberRecord": 11,
+            "materialType": "Passive"
+        },
+        {
+            "model": null,
+            "mfrname": "UNISTEEL TECHNOLOGY LIMITED",
+            "mfrcode": "YE00031199",
+            "numberRecord": 10,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "HENGLI PRECISION INDUSTRY (GUANGDONG) CO.,LTD.",
+            "mfrcode": "YE00031837",
+            "numberRecord": 10,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "CLOUD NETWORK TECHNOLOGY SINGAPOREPTE. LTD.",
+            "mfrcode": "YE00030061",
+            "numberRecord": 9,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "C-MFR - HUIZHOU SENCHENGDA TECHNOLOGY CO., LTD.",
+            "mfrcode": "YE00040522",
+            "numberRecord": 8,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "SHENZHEN YUTO PACKAGING TECHNOLOGY CO., LTD",
+            "mfrcode": "YE00030353",
+            "numberRecord": 8,
+            "materialType": "Packing"
+        },
+        {
+            "model": null,
+            "mfrname": "C-MFR - DINH THINH COMPANY LIMITED",
+            "mfrcode": "YE00039959",
+            "numberRecord": 7,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "TDK CORPORATION OF AMERICA",
+            "mfrcode": "YE00005286",
+            "numberRecord": 6,
+            "materialType": "Passive"
+        },
+        {
+            "model": null,
+            "mfrname": "C-MFR - LONNI TECHNOLOGY COMPANY LIMITED",
+            "mfrcode": "YE00039451",
+            "numberRecord": 5,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "C-MFR - TACU TECHNOLOGY (VIETNAM) COMPANY LIMITED",
+            "mfrcode": "YE00040131",
+            "numberRecord": 4,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "C-MFR - SHIU LI TECHNOLOGY CO., LTD",
+            "mfrcode": "YE00040133",
+            "numberRecord": 4,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "N.W.E",
+            "mfrcode": "YE00008640",
+            "numberRecord": 4,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "EVERWIN",
+            "mfrcode": "YE00012338",
+            "numberRecord": 4,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "NEXPERIA USA, INC.",
+            "mfrcode": "YE00029624",
+            "numberRecord": 4,
+            "materialType": "Active"
+        },
+        {
+            "model": null,
+            "mfrname": "DIODES INCORPORATED",
+            "mfrcode": "YE00005027",
+            "numberRecord": 3,
+            "materialType": "Active"
+        },
+        {
+            "model": null,
+            "mfrname": "LINETEK ELECTRONIC INC.",
+            "mfrcode": "YE00039103",
+            "numberRecord": 3,
+            "materialType": "Adapter"
+        },
+        {
+            "model": null,
+            "mfrname": "C-MFR - TACU TECHNOLOGY (VIETNAM) CO.,LTD",
+            "mfrcode": "YE00034940",
+            "numberRecord": 3,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "BESTEK TECHNOLOGY (SHENZHEN)",
+            "mfrcode": "YE00035983",
+            "numberRecord": 3,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "ASINK GREEN MATERIAL CORPORATION",
+            "mfrcode": "YE00040409",
+            "numberRecord": 3,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "GREEN PRECISION COMPONENTS (HUIZHOU) CO., LTD",
+            "mfrcode": "YE00027420",
+            "numberRecord": 3,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "C-MFR - WARTON PRINTING AND PACKAGING TECHNOLOGY (VIET NAM) CO., LTD",
+            "mfrcode": "YE00038390",
+            "numberRecord": 3,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "GREEN PRECISION COMPONETS VIETNAM CO.,LTD",
+            "mfrcode": "YE00038444",
+            "numberRecord": 3,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "C-MFR - SAMSUNG ELECTRO-MECHANICS (SHENZHEN) CO., LTD",
+            "mfrcode": "YE00033760",
+            "numberRecord": 3,
+            "materialType": "Passive"
+        },
+        {
+            "model": null,
+            "mfrname": "C-MFR - KEMET ELECTRONICS MARKETING (S) PTE",
+            "mfrcode": "YE00039766",
+            "numberRecord": 2,
+            "materialType": "Passive"
+        },
+        {
+            "model": null,
+            "mfrname": "KYOCERA ELECTRONICS",
+            "mfrcode": "YE00022013",
+            "numberRecord": 2,
+            "materialType": "Passive"
+        },
+        {
+            "model": null,
+            "mfrname": "NISHOKU TECHNOLOGY INC.",
+            "mfrcode": "YE00038693",
+            "numberRecord": 2,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "C-MFR - SHENZHEN CHANGXIANG TECHNOLOGY CO.,LTD",
+            "mfrcode": "YE00037148",
+            "numberRecord": 2,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "LUXSHARE PRECISION INDUSTRY(SHENZHEN) CO.,LTD",
+            "mfrcode": "YE00028661",
+            "numberRecord": 2,
+            "materialType": "E-Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "RRD",
+            "mfrcode": "YE00015846",
+            "numberRecord": 2,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "GUANGDONG MINGJI HI-TECH ELECTRONICS CO., LTD.",
+            "mfrcode": "YE00038131",
+            "numberRecord": 2,
+            "materialType": "E-Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "LINETEK ELECTRONIC INC.",
+            "mfrcode": "YE00039103",
+            "numberRecord": 2,
+            "materialType": "E-Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "INVENSENSE, INC",
+            "mfrcode": "YE00029777",
+            "numberRecord": 2,
+            "materialType": "Active"
+        },
+        {
+            "model": null,
+            "mfrname": "MOLEX INCORPORATED",
+            "mfrcode": "YE00005605",
+            "numberRecord": 2,
+            "materialType": "Connector"
+        },
+        {
+            "model": null,
+            "mfrname": "KEYSTONE ELECTRONICS",
+            "mfrcode": "YE00010600",
+            "numberRecord": 1,
+            "materialType": "Connector"
+        },
+        {
+            "model": null,
+            "mfrname": "{KEYSTONE ELECTRONICS}",
+            "mfrcode": "YE00021514",
+            "numberRecord": 1,
+            "materialType": "Connector"
+        },
+        {
+            "model": null,
+            "mfrname": "C-MFR - TE CONNECTIVITY LTD.",
+            "mfrcode": "YE00036707",
+            "numberRecord": 1,
+            "materialType": "Connector"
+        },
+        {
+            "model": null,
+            "mfrname": "DELTA ELECTRONICS INC.",
+            "mfrcode": "YE00007077",
+            "numberRecord": 1,
+            "materialType": "E-Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "SUNNY",
+            "mfrcode": "YE00012882",
+            "numberRecord": 1,
+            "materialType": "E-Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "WESTERN DIGITAL TECHNOLOGIES, INC.",
+            "mfrcode": "YE00029944",
+            "numberRecord": 1,
+            "materialType": "Active"
+        },
+        {
+            "model": null,
+            "mfrname": "PANJIT INTERNATIONAL INC.",
+            "mfrcode": "YE00031217",
+            "numberRecord": 1,
+            "materialType": "Active"
+        },
+        {
+            "model": null,
+            "mfrname": "RING SUPPLIER - EXCELITAS TECHNOLOGIES CORPORATION",
+            "mfrcode": "YE00036353",
+            "numberRecord": 1,
+            "materialType": "Active"
+        },
+        {
+            "model": null,
+            "mfrname": "MFR - NIKO SEMICONDUCTOR CO.,LTD.",
+            "mfrcode": "YE00040898",
+            "numberRecord": 1,
+            "materialType": "Active"
+        },
+        {
+            "model": null,
+            "mfrname": "RING SUPPLIER - DEE VAN ENTERPRISECO. LTD.",
+            "mfrcode": "YE00034000",
+            "numberRecord": 1,
+            "materialType": "Adapter"
+        },
+        {
+            "model": null,
+            "mfrname": "SAMSUNG SEMICONDUCTOR INC.",
+            "mfrcode": "YE00005658",
+            "numberRecord": 1,
+            "materialType": "Active"
+        },
+        {
+            "model": null,
+            "mfrname": "TEXAS INSTRUMENTS INC.",
+            "mfrcode": "YE00005663",
+            "numberRecord": 1,
+            "materialType": "Active"
+        },
+        {
+            "model": null,
+            "mfrname": "INFINEON TECHNOLOGIES AG",
+            "mfrcode": "YE00006080",
+            "numberRecord": 1,
+            "materialType": "Active"
+        },
+        {
+            "model": null,
+            "mfrname": "MTRONPTI",
+            "mfrcode": "YE00010057",
+            "numberRecord": 1,
+            "materialType": "Active"
+        },
+        {
+            "model": null,
+            "mfrname": "HYNIX SEMICONDUCTOR INC.",
+            "mfrcode": "YE00015071",
+            "numberRecord": 1,
+            "materialType": "Active"
+        },
+        {
+            "model": null,
+            "mfrname": "SK HYNIX",
+            "mfrcode": "YE00020652",
+            "numberRecord": 1,
+            "materialType": "Active"
+        },
+        {
+            "model": null,
+            "mfrname": "TOSHIBA AMERICA ELECTRONIC COMPONENTS, INC.",
+            "mfrcode": "YE00021511",
+            "numberRecord": 1,
+            "materialType": "Active"
+        },
+        {
+            "model": null,
+            "mfrname": "SKYWORKS SOLUTIONS INC.",
+            "mfrcode": "YE00023546",
+            "numberRecord": 1,
+            "materialType": "Active"
+        },
+        {
+            "model": null,
+            "mfrname": "LITTELFUSE, INC.",
+            "mfrcode": "YE00025727",
+            "numberRecord": 1,
+            "materialType": "Active"
+        },
+        {
+            "model": null,
+            "mfrname": "QUALCOMM TECHNOLOGIES, INC.",
+            "mfrcode": "YE00026707",
+            "numberRecord": 1,
+            "materialType": "Active"
+        },
+        {
+            "model": null,
+            "mfrname": "EVERLIGHT ELECTRONICS CO., LTD.",
+            "mfrcode": "YE00026969",
+            "numberRecord": 1,
+            "materialType": "Active"
+        },
+        {
+            "model": null,
+            "mfrname": "SINGATRON",
+            "mfrcode": "YE00004893",
+            "numberRecord": 1,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "NINGBO SUNNY OPOTECH CO., LTD.",
+            "mfrcode": "YE00030031",
+            "numberRecord": 1,
+            "materialType": "E-Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "RING SUPPLIER - YOUNG OPTICS INC.",
+            "mfrcode": "YE00034927",
+            "numberRecord": 1,
+            "materialType": "E-Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "AMPHENOL",
+            "mfrcode": "YE00000564",
+            "numberRecord": 1,
+            "materialType": "Connector"
+        },
+        {
+            "model": null,
+            "mfrname": "HARTING",
+            "mfrcode": "YE00000935",
+            "numberRecord": 1,
+            "materialType": "Connector"
+        },
+        {
+            "model": null,
+            "mfrname": "DINH THINH COMPANY LIMITED",
+            "mfrcode": "YE00037384",
+            "numberRecord": 1,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "SHANGHAI AMPHENOL AIRWAVE COMMUNICATION ELECTRONICS CO., LTD.",
+            "mfrcode": "YE00027927",
+            "numberRecord": 1,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "CLOUD NETWORK TECHNOLOGY",
+            "mfrcode": "YE00029439",
+            "numberRecord": 1,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "DONGGUAN MAXRON INTERNET OF THINGS TECHNOLOGY CO., LTD",
+            "mfrcode": "YE00029598",
+            "numberRecord": 1,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "C-MFR - COFORTUNE TECHNOLOGY INC.",
+            "mfrcode": "YE00039113",
+            "numberRecord": 1,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "C-MFR - LIANYING SCREWS CO.,LTD",
+            "mfrcode": "YE00040132",
+            "numberRecord": 1,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "JET PRESS",
+            "mfrcode": "YE00040418",
+            "numberRecord": 1,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "PULLY ELECTRONICS TECHNOLOGY VIETNAM",
+            "mfrcode": "YE00040244",
+            "numberRecord": 1,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "C-MFR - EVERWIN PRECISION TECHNOLOGY CO.,LTD",
+            "mfrcode": "YE00040248",
+            "numberRecord": 1,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "SICHEN RUBBER & PLASTIC HARDWARE (DONGGUAN) CO., LTD.",
+            "mfrcode": "YE00038692",
+            "numberRecord": 1,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "OSRAM",
+            "mfrcode": "YE00000321",
+            "numberRecord": 1,
+            "materialType": "Active"
+        },
+        {
+            "model": null,
+            "mfrname": "SICHEN",
+            "mfrcode": "YE00039708",
+            "numberRecord": 1,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "CORETRONIC CORPORATION",
+            "mfrcode": "YE00039881",
+            "numberRecord": 1,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "SHENZHEN EVERWIN PRECISION TECHNOLOGY CO., LTD.",
+            "mfrcode": "YE00039948",
+            "numberRecord": 1,
+            "materialType": "Mechanical"
+        },
+        {
+            "model": null,
+            "mfrname": "TA-I TECHNOLOGY CO., LTD.",
+            "mfrcode": "YE00005653",
+            "numberRecord": 1,
+            "materialType": "Passive"
+        },
+        {
+            "model": null,
+            "mfrname": "SUNLORD",
+            "mfrcode": "YE00007654",
+            "numberRecord": 1,
+            "materialType": "Passive"
+        },
+        {
+            "model": null,
+            "mfrname": "MTRONPTI",
+            "mfrcode": "YE00010057",
+            "numberRecord": 1,
+            "materialType": "Passive"
+        },
+        {
+            "model": null,
+            "mfrname": "CYNTEC CO., LTD.",
+            "mfrcode": "YE00014162",
+            "numberRecord": 1,
+            "materialType": "Passive"
+        },
+        {
+            "model": null,
+            "mfrname": "PANASONIC CORPORATION",
+            "mfrcode": "YE00017745",
+            "numberRecord": 1,
+            "materialType": "Passive"
+        },
+        {
+            "model": null,
+            "mfrname": "TAIYO YUDEN INC.",
+            "mfrcode": "YE00021504",
+            "numberRecord": 1,
+            "materialType": "Passive"
+        },
+        {
+            "model": null,
+            "mfrname": "ROHM SEMICONDUCTOR USA, LLC",
+            "mfrcode": "YE00021506",
+            "numberRecord": 1,
+            "materialType": "Passive"
+        },
+        {
+            "model": null,
+            "mfrname": "NIDEC AMERICA CORPORATION",
+            "mfrcode": "YE00030390",
+            "numberRecord": 1,
+            "materialType": "Packing"
+        },
+        {
+            "model": null,
+            "mfrname": "YUTO VN",
+            "mfrcode": "YE00034756",
+            "numberRecord": 1,
+            "materialType": "Packing"
+        },
+        {
+            "model": null,
+            "mfrname": "KEMET",
+            "mfrcode": "YE00000647",
+            "numberRecord": 1,
+            "materialType": "Passive"
+        },
+        {
+            "model": null,
+            "mfrname": "PULSE",
+            "mfrcode": "YE00000703",
+            "numberRecord": 1,
+            "materialType": "Passive"
+        },
+        {
+            "model": null,
+            "mfrname": "MINI-CIRCUITS",
+            "mfrcode": "YE00001456",
+            "numberRecord": 1,
+            "materialType": "Passive"
+        },
+        {
+            "model": null,
+            "mfrname": "PARKER HANNIFIN HONG KONG LTD",
+            "mfrcode": "YE00021895",
+            "numberRecord": 1,
+            "materialType": "Packing"
+        },
+        {
+            "model": null,
+            "mfrname": "HOSONIC ELECTRONIC CO., LTD",
+            "mfrcode": "YE00025300",
+            "numberRecord": 1,
+            "materialType": "Passive"
+        },
+        {
+            "model": null,
+            "mfrname": "GUANGDONG VIIYONG ELECTRONIC TECHNOLOGY CO.LTD",
+            "mfrcode": "YE00032782",
+            "numberRecord": 1,
+            "materialType": "Passive"
+        },
+        {
+            "model": null,
+            "mfrname": "U.D.ELECTRONIC CORP",
+            "mfrcode": "YE00038226",
+            "numberRecord": 1,
+            "materialType": "Passive"
+        }
+    ],
+    "size": 92
+}
