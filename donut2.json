@@ -1,0 +1,24 @@
+{
+    "status": "OK",
+    "code": "SUCCESS",
+    "message": "success",
+    "data": [
+        {
+            "totalRecord": 4,
+            "materialType": "Active"
+        },
+        {
+            "totalRecord": 23,
+            "materialType": "Mechanical"
+        },
+        {
+            "totalRecord": 2,
+            "materialType": "Packing"
+        },
+        {
+            "totalRecord": 2,
+            "materialType": "Passive"
+        }
+    ],
+    "size": 4
+}
