@@ -1,0 +1,36 @@
+{
+    "status": "OK",
+    "code": "SUCCESS",
+    "message": "success",
+    "data": [
+        {
+            "totalRecord": 750,
+            "materialType": "Mechanical"
+        },
+        {
+            "totalRecord": 503,
+            "materialType": "Packing"
+        },
+        {
+            "totalRecord": 2986,
+            "materialType": "Passive"
+        },
+        {
+            "totalRecord": 125,
+            "materialType": "E-Mechanical"
+        },
+        {
+            "totalRecord": 104,
+            "materialType": "Connector"
+        },
+        {
+            "totalRecord": 579,
+            "materialType": "Active"
+        },
+        {
+            "totalRecord": 19,
+            "materialType": "Adapter"
+        }
+    ],
+    "size": 7
+}
