@@ -1,0 +1,90 @@
+{
+    "status": "OK",
+    "code": "SUCCESS",
+    "message": "success",
+    "result": {
+        "inspectedTotal": 5066,
+        "lotRejectedTotal": 34,
+        "lotRejectedRate": 0.0,
+        "data": [
+            {
+                "weekNumber": 44,
+                "inspectedTotal": 248,
+                "lotRejectedTotal": 1,
+                "lotRejectedRate": 0.0,
+                "data": [
+                    {
+                        "workDate": "2025-11-01",
+                        "inspectedTotal": 248,
+                        "lotRejectedTotal": 1,
+                        "lotRejectedRate": 0.004032258064516129
+                    }
+                ]
+            },
+            {
+                "weekNumber": 45,
+                "inspectedTotal": 4469,
+                "lotRejectedTotal": 33,
+                "lotRejectedRate": 0.0,
+                "data": [
+                    {
+                        "workDate": "2025-11-02",
+                        "inspectedTotal": 105,
+                        "lotRejectedTotal": 0,
+                        "lotRejectedRate": 0.0
+                    },
+                    {
+                        "workDate": "2025-11-03",
+                        "inspectedTotal": 446,
+                        "lotRejectedTotal": 0,
+                        "lotRejectedRate": 0.0
+                    },
+                    {
+                        "workDate": "2025-11-04",
+                        "inspectedTotal": 676,
+                        "lotRejectedTotal": 0,
+                        "lotRejectedRate": 0.0
+                    },
+                    {
+                        "workDate": "2025-11-05",
+                        "inspectedTotal": 761,
+                        "lotRejectedTotal": 0,
+                        "lotRejectedRate": 0.0
+                    },
+                    {
+                        "workDate": "2025-11-06",
+                        "inspectedTotal": 900,
+                        "lotRejectedTotal": 17,
+                        "lotRejectedRate": 0.01888888888888889
+                    },
+                    {
+                        "workDate": "2025-11-07",
+                        "inspectedTotal": 986,
+                        "lotRejectedTotal": 6,
+                        "lotRejectedRate": 0.006085192697768763
+                    },
+                    {
+                        "workDate": "2025-11-08",
+                        "inspectedTotal": 595,
+                        "lotRejectedTotal": 10,
+                        "lotRejectedRate": 0.01680672268907563
+                    }
+                ]
+            },
+            {
+                "weekNumber": 46,
+                "inspectedTotal": 349,
+                "lotRejectedTotal": 0,
+                "lotRejectedRate": 0.0,
+                "data": [
+                    {
+                        "workDate": "2025-11-09",
+                        "inspectedTotal": 349,
+                        "lotRejectedTotal": 0,
+                        "lotRejectedRate": 0.0
+                    }
+                ]
+            }
+        ]
+    }
+}
